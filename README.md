@@ -8,10 +8,11 @@ I'm just setting it up for you.
 
 Simply follow these steps:
 
-1. in project root, run: `npm install`
-2. Make sure your web app is already running and you have the url, example: it is running on `http://localhost:3000/`
-3. Open the file `test/browser.ts` and change the port number to the port your app is running on.
-4. Run the project using: `npm run test:safari`
+1. Clone repository and open with editor.
+2. in project root, run: `npm install`
+3. Make sure your web app is already running and you have the url, example: it is running on `http://localhost:3000/`
+4. Open the file `test/browser.ts` and change the port number to the port your app is running on.
+5. Run the project using: `npm run test:safari`
 
 The tool will open two windows, one where you can see your app running and the second a controller for the tool.
 You can also open inspector tool, just like in the web browser.
