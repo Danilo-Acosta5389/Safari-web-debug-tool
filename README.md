@@ -1,9 +1,6 @@
 # Debug tool using Playwright
 
-This is a debugging tool for testing your web app on different web engines, such as chromes V8 and safaris Webkit.
-This comes in handy if you, for example, are developing in a Windows machine and want to test on Safari browser but don't have access to an Iphone or Mac computer.
-This tool can also be set up to test on other browsers aswell, like firefox.
-The project is not mine, i actually just followed this guide: https://joyofcode.xyz/test-your-site-in-every-browser
+This debugging tool allows you to test your web app on various web engines, such as Chrome's V8 and Safari's WebKit. It's particularly useful if you're developing on a Windows machine and need to test your app in the Safari browser without access to an iPhone or Mac computer. Additionally, the tool can be configured to test other browsers like Firefox. Note: This project isn't my original creation—I simply followed this guide: https://joyofcode.xyz/test-your-site-in-every-browser
 
 I'm just setting it up for you.
 
