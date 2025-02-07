@@ -16,7 +16,7 @@ Simply follow these steps:
 3. Open the file `test/browser.ts` and change the port number to the port your app is running on.
 4. Run the project using: `npm run test:safari`
 
-### Here are the steps in the guide, for setting up from scratch:
+## Here are the steps in the guide, for setting up from scratch:
 
 1. Initialize a new project inside an empty folder:
    `npm init -y`
