@@ -1,0 +1,17 @@
+{
+  "name": "debug-safari-here",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "npx playwright test --headed --browser=chromium",
+    "test:firefox": "npx playwright test --headed --browser=firefox",
+    "test:safari": "npx playwright test --headed --browser=webkit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1"
+  }
+}
