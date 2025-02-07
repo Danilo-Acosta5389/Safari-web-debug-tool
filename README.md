@@ -16,7 +16,14 @@ Simply follow these steps:
 3. Open the file `test/browser.ts` and change the port number to the port your app is running on.
 4. Run the project using: `npm run test:safari`
 
-## Here are the steps in the guide, for setting up from scratch:
+The tool will open two windows, one where you can see your app running and the second a controller for the tool.
+You can also open inspector tool, just like in the web browser.
+
+Happy debugging!
+
+## Steps in the guide:
+
+### No need for this if above steps were taken.
 
 1. Initialize a new project inside an empty folder:
    `npm init -y`
