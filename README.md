@@ -4,7 +4,7 @@ This debugging tool allows you to test your web app on various web engines, such
 
 I'm just setting it up for you.
 
-## For installation after cloning repo.
+## For installation after cloning repo
 
 Simply follow these steps:
 
@@ -19,7 +19,7 @@ You can also open inspector tool, just like in the web browser.
 
 Happy debugging!
 
-## Steps in the guide:
+## Steps in the guide
 
 ### No need for this if above steps were taken.
 
